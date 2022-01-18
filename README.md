@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EnisHamidulin 
-- I'm currently doing a software engineering retraining course,
+- I'm currently doing a software developer retraining course,
 - I'm very excited about the many new things I'm learning.
 - I believe that every new line of code brings my goals a little bit closer.
 - I hope you have a nice day :). 
